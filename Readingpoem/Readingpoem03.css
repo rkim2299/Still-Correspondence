@@ -1,0 +1,322 @@
+
+
+  body
+  {
+    margin:0;
+    padding:0;
+  }
+
+
+
+  .box0{
+    height:100vh;
+    width: 100%;
+    background-image: url(file:///Users/rachelkim/Desktop/DP/crab%20poem-36.png);
+    background-size: cover;
+    background-position:center;
+    display: table;
+    background-attachment: fixed;
+  }
+
+
+.box2{
+  height:100vh;
+  width: 100%;
+  background-image: url(file:///Users/rachelkim/Desktop/DP/crab%20poem-32.png);
+  background-size: cover;
+  background-position:center;
+  display: table;
+  background-attachment: fixed;
+}
+
+.box3{
+  height:100vh;
+  width: 100%;
+  background-image: url(file:///Users/rachelkim/Desktop/DP/crab%20poem-33.png);
+  background-size: cover;
+  background-position:center;
+  display: table;
+  background-attachment: fixed;
+}
+
+.box4{
+  height:100vh;
+  width: 100%;
+  background-image: url(file:///Users/rachelkim/Desktop/DP/crab%20poem-34.png);
+  background-size: cover;
+  background-position:center;
+  display: table;
+  background-attachment: fixed;
+}
+
+.box5{
+  height:100vh;
+  width: 100%;
+  background-image: url(file:///Users/rachelkim/Desktop/DP/crab%20poem-35.png);
+  background-size: cover;
+  background-position:center;
+  display: table;
+  background-attachment: fixed;
+}
+
+
+.box6{
+  height:100vh;
+  width: 100%;
+  background-image: url(file:///Users/rachelkim/Desktop/DP/A-23.png);
+  background-size: cover;
+  background-position:center;
+  display: table;
+  background-attachment: fixed;
+}
+
+
+.box7{
+  height:100vh;
+  width: 100%;
+  background-image: url(file:///Users/rachelkim/Desktop/DP/untitled%20folder/crab.png);
+  background-size: cover;
+  background-position:center;
+  display: table;
+  background-attachment: fixed;
+}
+
+.crab_closeup{
+  height:100vh;
+  width: 100%;
+  background-image: url(file:///Users/rachelkim/Desktop/DP/crab%20close%20up-18.png);
+  background-size: cover;
+  background-position:center;
+  display: table;
+  background-attachment: fixed;
+}
+
+.growing1{
+  height:100vh;
+  width: 100%;
+  background-image: url(file:///Users/rachelkim/Desktop/DP/growing%2003-25.png);
+      visibility: fade;
+      background-size: cover;
+      background-position:center;
+      display: table;
+      background-attachment: fixed;
+  }
+  .growing2{
+    height:100vh;
+    width: 100%;
+    background-image: url(file:///Users/rachelkim/Desktop/DP/growing%2003-28.png);
+        visibility: fade;
+        background-size: cover;
+        background-position:center;
+        display: table;
+        background-attachment: fixed;
+    }
+    .growing3{
+      height:100vh;
+      width: 100%;
+      background-image: url(file:///Users/rachelkim/Desktop/DP/growing%2003-29.png);
+          visibility: fade;
+          background-size: cover;
+          background-position:center;
+          display: table;
+          background-attachment: fixed;
+      }
+      .blossoms{
+        height:100vh;
+        width: 100%;
+        background-image: url(file:///Users/rachelkim/Desktop/DP/buds-26.png);
+            visibility: fade;
+            background-size: cover;
+            background-position:center;
+            display: table;
+            background-attachment: fixed;
+        }
+        .blossoms2{
+          height:100vh;
+          width: 100%;
+          background-image: url(file:///Users/rachelkim/Desktop/DP/buds-31.png);
+              visibility: fade;
+              background-size: cover;
+              background-position:center;
+              display: table;
+              background-attachment: fixed;
+          }
+
+
+        .dandelion{
+          height:100vh;
+          width: 100%;
+          background-image: url(file:///Users/rachelkim/Desktop/DP/untitled%20folder/untitled%20folder/dandelion%2002.png);
+              visibility: fade;
+              background-size: cover;
+              background-position:center;
+              display: table;
+              background-attachment: fixed;
+          }
+
+          .dandelion1{
+            height:100vh;
+            width: 100%;
+            background-image: url(file:///Users/rachelkim/Desktop/DP/daisy%20poem-41.png);
+                visibility: fade;
+                background-size: cover;
+                background-position:center;
+                display: table;
+                background-attachment: fixed;
+            }
+            .dandelion2{
+              height:100vh;
+              width: 100%;
+              background-image: url(file:///Users/rachelkim/Desktop/DP/daisy%20poem-42.png);
+                  visibility: fade;
+                  background-size: cover;
+                  background-position:center;
+                  display: table;
+                  background-attachment: fixed;
+              }
+              .dandelion3{
+                height:100vh;
+                width: 100%;
+                background-image: url(file:///Users/rachelkim/Desktop/DP/daisy%20poem-43.png);
+                    visibility: fade;
+                    background-size: cover;
+                    background-position:center;
+                    display: table;
+                    background-attachment: fixed;
+                }
+                .dandelion4{
+                  height:100vh;
+                  width: 100%;
+                  background-image: url(file:///Users/rachelkim/Desktop/DP/daisy%20poem-39.png);
+                      visibility: fade;
+                      background-size: cover;
+                      background-position:center;
+                      display: table;
+                      background-attachment: fixed;
+                  }
+                  .shadow{
+                    height:100vh;
+                    width: 100%;
+                    background-image: url(file:///Users/rachelkim/Desktop/DP/shadows-44.png);
+                        visibility: fade;
+                        background-size: cover;
+                        background-position:center;
+                        display: table;
+                        background-attachment: fixed;
+                    }
+                    .shadow2{
+                      height:100vh;
+                      width: 100%;
+                      background-image: url(file:///Users/rachelkim/Desktop/DP/shadow02-44.png);
+                          visibility: fade;
+                          background-size: cover;
+                          background-position:center;
+                          display: table;
+                          background-attachment: fixed;
+                      }
+                      .end{
+                        height:100vh;
+                        width: 100%;
+                        background-image: url(file:///Users/rachelkim/Desktop/DP/final-45.png);
+                            visibility: fade;
+                            background-size: cover;
+                            background-position:center;
+                            display: table;
+                            background-attachment: fixed;
+                        }
+
+h1{
+  font-family: 'Newsreader', serif;
+  font-size: 48px;
+  color: white;
+  margin: 8px;
+  text-align: center;
+  display: table-cell;
+  vertical-align:middle;
+}
+  /*body {
+    font: 100% / 1.5 Arial;
+  }
+
+  * {
+    margin:0;
+    padding:0;
+  }
+
+  .parallax {
+    font-size: 200%;
+  }
+
+   /* centre the content in the parallax layers */
+  /*.title {
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+
+
+  #group1 {
+    z-index: 5; /* slide over group 2 */
+  /*}
+  #group1 .parallax__layer--base {
+    background: rgb(102,204,102);
+  }
+
+  #group2 {
+    z-index: 3; /* slide under groups 1 and 3 */
+  /*}
+  #group2 .parallax__layer--back {
+    background: rgb(123,210,102);
+  }
+
+  #group3 {
+    z-index: 4; /* slide over group 2 and 4 */
+  /*}
+  #group3 .parallax__layer--base {
+    background: rgb(153,216,101);
+  }
+
+  #group4 {
+    z-index: 2; /* slide under group 3 and 5 */
+/*  }
+  #group4 .parallax__layer--deep {
+    background: rgb(184,223,101);
+  }
+
+  #group5 {
+    z-index: 3; /* slide over group 4 and 6 */
+  /*}
+  #group5 .parallax__layer--base {
+    background: rgb(214,229,100);
+  }
+
+  #group6 {
+    z-index: 2; /* slide under group 5 and 7 */
+  /*}
+  #group6 .parallax__layer--back {
+    background: rgb(245,235,100);
+  }
+
+  #group7 {
+    z-index: 3; /* slide over group 7 */
+/*  }
+  #group7 .parallax__layer--base {
+    background: rgb(255,241,100);
+  }
+
+
+  /* misc
+  --------------------------------------------- */
+  /*.demo__info {
+    position: absolute;
+    z-index:100;
+    bottom: 1vh;
+    top: auto;
+    font-size:80%;
+    text-align:center;
+    width: 100%;
+  }
